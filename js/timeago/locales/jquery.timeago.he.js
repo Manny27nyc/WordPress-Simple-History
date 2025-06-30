@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Hebrew
 jQuery.timeago.settings.strings = {
   prefixAgo: "לפני",

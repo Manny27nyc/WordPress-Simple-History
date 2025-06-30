@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 //Latvian
 jQuery.timeago.settings.strings = {
   prefixAgo: "pirms",

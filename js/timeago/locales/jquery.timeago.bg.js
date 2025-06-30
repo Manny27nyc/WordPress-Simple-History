@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Bulgarian
 jQuery.timeago.settings.strings = {
   prefixAgo: "преди",

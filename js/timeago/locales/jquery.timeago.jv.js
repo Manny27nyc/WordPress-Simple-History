@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Javanesse (Boso Jowo)
 jQuery.timeago.settings.strings = {
   prefixAgo: null,

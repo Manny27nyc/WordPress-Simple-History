@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // French shortened
 jQuery.timeago.settings.strings = {
    prefixAgo: "il y a",

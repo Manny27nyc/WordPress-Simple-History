@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* jshint multistr: true */
 
 var simple_history = (function ($) {

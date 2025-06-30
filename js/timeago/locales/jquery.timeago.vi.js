@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Vietnamese
 jQuery.timeago.settings.strings = {
   prefixAgo: 'cách đây',

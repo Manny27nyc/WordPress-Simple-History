@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Slovak
 jQuery.timeago.settings.strings = {
   prefixAgo: "pred",

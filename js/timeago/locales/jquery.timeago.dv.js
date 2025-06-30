@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /** 
  * Dhivehi time in Thaana for timeago.js
  **/

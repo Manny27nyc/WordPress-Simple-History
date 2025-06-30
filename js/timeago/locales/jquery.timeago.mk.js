@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Macedonian
 (function() {
  jQuery.timeago.settings.strings={

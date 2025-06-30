@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // French
 jQuery.timeago.settings.strings = {
    // environ ~= about, it's optional

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Ukrainian
 (function() {
   function numpf(n, f, s, t) {

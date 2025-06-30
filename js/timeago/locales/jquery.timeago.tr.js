@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Turkish
 jQuery.timeago.settings.strings = {
    suffixAgo: 'önce',

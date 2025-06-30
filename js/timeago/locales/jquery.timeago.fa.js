@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 ﻿
 // Persian
 // Use DIR attribute for RTL text in Persian Language for ABBR tag .

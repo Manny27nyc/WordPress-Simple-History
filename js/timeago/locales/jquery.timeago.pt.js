@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Portuguese
 jQuery.timeago.settings.strings = {
    suffixAgo: "atrás",

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Kinyarwanda
 jQuery.timeago.settings.strings = {
   prefixAgo: "hashize",
